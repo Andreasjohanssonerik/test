@@ -4,6 +4,7 @@
 int main()
 {
     printf("Hello world!\n");
-    int i = 0;
+    printf("branch test!\n");
+    int i = 1;
     return 0;
 }
